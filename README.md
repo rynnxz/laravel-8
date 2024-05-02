@@ -21,6 +21,7 @@ Ekstrak file `php-7.4.33-nts-Win32-vc15-x64.zip` atau `php-7.4.33-nts-Win32-vc15
 
 ### Install Composer
 Kemudian install `Composer-Setup.exe` tinggal kalian next saja, lalu jika diminta file PHPnya, seperti gambar dibawah ini
+
 <img width="700px" src="img/img1.jpg" alt="Composer setup"/>
 
 <p>kalian arahkan ke file yang kalian ekstrak tadi, misalnya di Download</p>
