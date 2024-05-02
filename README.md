@@ -21,10 +21,10 @@ git clone https://github.com/rynnxz/laravel-8.git
 
 ### Install Composer
 <p>Kemudian install `Composer-Setup.exe` tinggal kalian next saja, lalu jika diminta file PHPnya, seperti gambar dibawah ini</p>
-<img width="200px" src="img/img1.jpeg" alt="Composer setup"/>
+<img width="200px" src="img/img1.jpg" alt="Composer setup"/>
 
 <p>kalian arahkan ke file yang kalian ekstrak tadi, misalnya di Download</p>
-<img width="200px" src="img/img2.jpeg" alt="Composer setup"/>
+<img width="200px" src="img/img2.jpg" alt="Composer setup"/>
 
 <p>kemudian next terus</p>
 
@@ -61,4 +61,4 @@ php artisan serve
 
 <p>nah nanti bakalan ada berupa IP `http://127.0.0.1:8000` dan coba kalian buka di Browser</p>
 
-<h1>SELAMAT LARAVEL KALIAN SUDAH TERINSTAL!</h1>
+<h1 align="center">SELAMAT LARAVEL KALIAN SUDAH TERINSTAL!</h1>
