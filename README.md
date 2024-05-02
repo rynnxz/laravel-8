@@ -17,7 +17,7 @@ git clone https://github.com/rynnxz/laravel-8.git
 ```
 
 ### Ekstrak file PHP
-<p align="left">Ekstrak file `php-7.4.33-nts-Win32-vc15-x64` atau ``, bebas mo ekstrak dimana</p>
+<p align="left">Ekstrak file `php-7.4.33-nts-Win32-vc15-x64.zip` atau `php-7.4.33-nts-Win32-vc15-x86.zip` kalian pilih sesuai dengan berapa bit OS windows kalian, atau download dari <a href="https://php.watch/versions/7.4/releases/7.4.33">Download PHP Versi 7.4.33</a>, bebas mo ekstrak dimana</p>
 
 ### Install Composer
 <p>Kemudian install `Composer-Setup.exe` tinggal kalian next saja, lalu jika diminta file PHPnya, seperti gambar dibawah ini</p>
