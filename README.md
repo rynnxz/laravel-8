@@ -11,4 +11,17 @@ Mungkin masih banyak yang bingung cara install `laravel 8` dikarenakan mungkin u
 ## Tutorial
 
 ### Clone Repo Ini
-<p align="left">Clone repo ini dengan Git atau </p>
+<p align="left">Clone repo ini dengan Git atau Terminal</p>
+```bash
+git clone https://github.com/rynnxz/laravel-8.git
+```
+
+### Ekstrak file PHP
+<p align="left">Ekstrak file `php-7.4.33-nts-Win32-vc15-x64` atau ``, bebas mo ekstrak dimana</p>
+
+### Install Composer
+<p>Kemudian install `Composer-Setup.exe` tinggal kalian next saja, lalu jika diminta file PHPnya, seperti gambar dibawah ini</p>
+<img width="200px" src="img/img1.jpeg" alt="Composer setup"/>
+
+<p>kalian arahkan ke file yang kalian ekstrak tadi, misalnya di Download</p>
+<p>kemudian next terus</p>
