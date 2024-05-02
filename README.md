@@ -24,4 +24,41 @@ git clone https://github.com/rynnxz/laravel-8.git
 <img width="200px" src="img/img1.jpeg" alt="Composer setup"/>
 
 <p>kalian arahkan ke file yang kalian ekstrak tadi, misalnya di Download</p>
+<img width="200px" src="img/img2.jpeg" alt="Composer setup"/>
+
 <p>kemudian next terus</p>
+
+## Laravel Install Guide
+### Buka Command Prompt / Terminal / yang lainnya terserah kalian
+<p>Setelah dibuka coba arahkan Terminal tersebut ke-directory project kalian, atau simpelnya dimana kalian ingin simpan project laravelnya, misalnya di `E:\rynn\laravel` ini kalau dari gw</p>
+
+``` bash
+cd E:\rynn\laravel
+e:
+```
+
+### Command untuk Install laravelnya
+<p>Nah jika sudah diarahkan ke directory yang kalian inginkan kemudian jalankan command berikut</p>
+
+```bash
+composer create-project laravel/laravel:^8.0 contoh-app
+```
+
+<p>Kemudian tunggu downloadingnya selesai</p>
+
+### Jalankan Laravelnya
+<p>Untuk menguji apakah laravelnya sudah terinstall dengan baik, coba masuk ke file yang kalian buat tadi, klo gw kan `contoh-app`, berarti tinggal</p>
+
+```bash
+cd contoh-app
+```
+
+<p>kemudian jalankan perintah</p>
+
+```bash
+php artisan serve
+```
+
+<p>nah nanti bakalan ada berupa IP `http://127.0.0.1:8000` dan coba kalian buka di Browser</p>
+
+<h1>SELAMAT LARAVEL KALIAN SUDAH TERINSTAL!</h1>
