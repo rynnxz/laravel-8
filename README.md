@@ -11,5 +11,4 @@ Mungkin masih banyak yang bingung cara install `laravel 8` dikarenakan mungkin u
 ## Tutorial
 
 ### Clone Repo Ini
-
-
+<p align="left">Clone repo ini dengan Git atau </p>
