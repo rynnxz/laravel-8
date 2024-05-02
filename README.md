@@ -21,10 +21,10 @@ git clone https://github.com/rynnxz/laravel-8.git
 
 ### Install Composer
 <p>Kemudian install `Composer-Setup.exe` tinggal kalian next saja, lalu jika diminta file PHPnya, seperti gambar dibawah ini</p>
-<img width="200px" src="img/img1.jpg" alt="Composer setup"/>
+<img width="700px" src="img/img1.jpg" alt="Composer setup"/>
 
 <p>kalian arahkan ke file yang kalian ekstrak tadi, misalnya di Download</p>
-<img width="200px" src="img/img2.jpg" alt="Composer setup"/>
+<img width="700px" src="img/img2.jpg" alt="Composer setup"/>
 
 <p>kemudian next terus</p>
 
