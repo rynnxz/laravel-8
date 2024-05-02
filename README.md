@@ -5,3 +5,9 @@
 </p>
 
 <h3 align="center">Cara setup `Laravel 8`</h3>
+
+Mungkin masih banyak yang bingung cara install `laravel 8` dikarenakan mungkin uda agak lama versinya
+
+## Tutorial
+
+### 
